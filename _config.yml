@@ -3,5 +3,4 @@ title: desarrolladores inmobiliario
 description: Fraude, Marco Antonio Perez Alejo, Construyetucasa, Construyetudepa, University Depas, Puebla
 plugins:
   - jekyll-seo-tag
-gems:
   - jekyll-sitemap
